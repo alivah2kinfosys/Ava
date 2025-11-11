@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Business Analyst - Activity Diagram</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f6f9;
+        color: #333333;
+        margin: 0;
+        padding: 20px;
+        line-height: 1.6;
+    }
+    .container {
+        background-color: #ffffff;
+        border-radius: 10px;
+        padding: 30px;
+        max-width: 900px;
+        margin: 0 auto;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+        color: #0056b3;
+        text-align: center;
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    a {
+        color: #0073e6;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>Business Analyst: Activity Diagram</h1>
+    <p>
+        In the field of business analysis, an <strong>Activity Diagram</strong> is a crucial component of process modeling. It visually represents the workflow or the sequence of actions in a business process or system functionality. Business Analysts use activity diagrams to analyze and improve how different components interact during process execution.
+    </p>
+    <p>
+        Activity diagrams are part of the <a href="https://www.h2kinfosys.com/courses/ba-online-training-course-details/" target="_blank">What is an UML?</a> (Unified Modeling Language) family, widely adopted for illustrating dynamic aspects of a system. These diagrams showcase decision points, concurrent activities, and transitions, making them especially useful for modeling system logic and process automation.
+    </p>
+    <p>
+        Typically, an activity diagram starts with an initial node (the start of the process), followed by a series of actions or activities connected by control flows. Decision nodes represent branching points based on certain conditions, and the process concludes at a final node. Swimlanes can be used to indicate which actor or system component is responsible for specific actions.
+    </p>
+    <p>
+        For example, in an online order process, an activity diagram can depict how a customer places an order, payment is verified, inventory is updated, and the product is shipped. This visual clarity helps stakeholders identify bottlenecks, redundancies, and potential optimization areas within the business flow.
+    </p>
+    <p>
+        By mastering activity diagrams, Business Analysts can effectively translate complex workflows into easy-to-understand visuals, bridging communication between technical and non-technical teams. This ensures accurate requirement gathering, efficient design, and seamless implementation of business processes.
+    </p>
+</div>
+</body>
+</html>
